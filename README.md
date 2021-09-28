@@ -1,2 +1,2 @@
-# Java
-Practice and Learn Java
+# clothing store project
+
